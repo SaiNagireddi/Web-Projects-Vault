@@ -6,7 +6,7 @@ A simple and intuitive web application that converts temperature between **Celsi
 
 ## 📸 Preview
 
-<img src="assets/screenshot.png" alt="Temperature Converter UI" width="250"/>
+<img width="230" height="250" alt="Screenshot 2025-07-11 152323" src="https://github.com/user-attachments/assets/cb13d0a8-06fe-44b2-b889-b823fbbe3a9a" />
 
 ---
 
