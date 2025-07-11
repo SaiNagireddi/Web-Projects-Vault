@@ -1,5 +1,5 @@
 
-# 📝 Grade Checker – Xth Class Progress Card
+# 📝 Grade Checker 
 
 A simple and interactive web app built using **HTML**, **CSS**, and **JavaScript** that allows users to input marks for various subjects and instantly view the **total**, **average**, and **grade**.
 
