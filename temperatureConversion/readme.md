@@ -2,11 +2,11 @@
 
 A simple and intuitive web application that converts temperature between **Celsius** and **Fahrenheit**. Built with **HTML**, **CSS**, and **JavaScript**, it's styled for clarity and ease of use.
 
----
+----
 
 ## 📸 Preview
 
-<img src="d2c15e90-d3b0-4450-84f5-5c1188c36df1.png" alt="Temperature Converter UI" width="250"/>
+<img src="assets/screenshot.png" alt="Temperature Converter UI" width="250"/>
 
 ---
 
