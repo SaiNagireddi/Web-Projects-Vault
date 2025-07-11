@@ -3,6 +3,10 @@
 A simple and responsive calculator web application built using **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ---
+# Priveiw
+<img width="622" height="871" alt="image" src="https://github.com/user-attachments/assets/f94407ac-b382-4fba-900f-93e90ae893a2" />
+
+---
 
 ## 🚀 Features
 
