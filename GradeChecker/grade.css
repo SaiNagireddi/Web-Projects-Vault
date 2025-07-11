@@ -1,0 +1,54 @@
+#main{
+	width:300px;
+	height:500px;
+	margin:100px 600px;
+	background:rgb(255, 251, 0);
+	color:#000;
+	border-radius:10px;
+	padding:20px;
+	box-shadow: 0 0 15px rgb(252, 3, 3);
+	transition:linear 600ms;
+}
+
+button{
+	width:150px;
+	height:30px;
+	border:0;
+	outline:0;
+	font-size:20px;
+	background:linear-gradient(to right, rgb(253, 0, 0),rgb(5, 255, 42));
+	color:white;
+	border-radius:4px;
+	transition:linear all 500ms;
+	display:block;
+	margin:auto;
+}
+
+button:hover{
+	background:linear-gradient(to left, blue, hotpink);
+	border-radius:15px;
+	cursor:pointer;
+	
+}
+output{
+	color:green;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+
+h2{
+	text-align:center;
+	text-decoration:none;  /*dotted dashes wavy inset outset*/
+}
+
+input{
+	
+
+	color:black; /* application form specialization , underline */
+}

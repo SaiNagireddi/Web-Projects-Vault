@@ -1,0 +1,47 @@
+<!Doctype html>
+<html>
+    <head>
+	   <title>Progress Card | Xth Class</title>
+	   <link rel="stylesheet" href="grade.css"/>
+	   
+	</head>
+	<body>
+	   <div id="main">
+	        <div>
+		       <label for="nm" >Name</label>
+			   <input type="text" id="nm" placeholder="Name" required autofocus><br>
+			</div>
+			<div>
+			   <label for="roll">Id Number</label>
+			   <input type="text" id="roll" placeholder="ID"><br>
+		    </div>
+		    <h2>Marks</h2>
+		    <div>
+		       <label for="html">HTML</label>
+			   <input type="text" id="html" placeholder="Enter Marks"><br>
+			</div>
+			<div>
+			   <label for="css">CSS</label>
+			   <input type="text" id="css" placeholder="Enter Marks"><br>
+			</div>
+			<div>
+			   <label for="js">JAVA SCRIPT</label>
+			   <input type="text" id="js" placeholder="Enter Marks"><br>
+			</div>
+			<div>
+			   <label for="bs">BOOT STRAP</label>
+			   <input type="text" id="bs" placeholder="Enter Marks"><br>
+			</div>
+			<br>
+			<div>
+			    <button onclick="getResult()">Submit</button>
+			</div>
+			<div>
+			      <output id="total"></output><br>
+				  <output id="average"></output><br>
+				  <output id="grade"></output>
+			</div>
+	   </div><
+	   <script src="grade.js"></script>
+	</body>
+</html>
