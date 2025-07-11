@@ -26,7 +26,7 @@ A simple and responsive calculator that performs arithmetic operations.
 
 An interactive app to enter marks, calculate total, average, and assign grade.
 
-<img width="230" height="230" alt="Grade Checker Screenshot" src="https://github.com/user-attachments/assets/586ae051-554b-403d-941a-8b8fee608e62" />
+<img width="330" height="230" alt="Grade Checker Screenshot" src="https://github.com/user-attachments/assets/586ae051-554b-403d-941a-8b8fee608e62" />
 
 **Features:**
 - Input student name, ID, and marks
