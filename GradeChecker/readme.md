@@ -1,8 +1,4 @@
-Here is a professional and beginner-friendly `README.md` file for your **Grade Checker** web app built using HTML, CSS, and JavaScript:
 
----
-
-```markdown
 # 📝 Grade Checker – Xth Class Progress Card
 
 A simple and interactive web app built using **HTML**, **CSS**, and **JavaScript** that allows users to input marks for various subjects and instantly view the **total**, **average**, and **grade**.
