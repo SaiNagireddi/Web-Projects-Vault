@@ -4,7 +4,7 @@ A simple and responsive calculator web application built using **HTML**, **CSS**
 
 ---
 # Priveiw
-<img width="622" height="871" alt="image" src="https://github.com/user-attachments/assets/f94407ac-b382-4fba-900f-93e90ae893a2" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f94407ac-b382-4fba-900f-93e90ae893a2" />
 
 ---
 
