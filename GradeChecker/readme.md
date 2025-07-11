@@ -7,7 +7,7 @@ A simple and interactive web app built using **HTML**, **CSS**, and **JavaScript
 
 ## 📸 Preview
 
-<img width="847" height="702" alt="image" src="https://github.com/user-attachments/assets/586ae051-554b-403d-941a-8b8fee608e62" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/586ae051-554b-403d-941a-8b8fee608e62" />
 
 ---
 
